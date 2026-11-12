@@ -10,7 +10,7 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chadnpc&locale=en&hide_title=true&size_weight=0.4&count_weight=0.6&layout=compact&card_width=520&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=chadnpc&locale=en&hide_title=true&size_weight=0.4&count_weight=0.6&layout=compact&card_width=520&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=chadnpc&label=(%20%E2%89%96.%E2%89%96)&icon=1&pretty=true)](https://wakatime.com/@chadnpc)

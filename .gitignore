@@ -1,3 +1,4 @@
 
 *.ignore
 *.oi_enc
+/node_modules
